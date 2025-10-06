@@ -1,13 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+---
+# 🎮 Tic Tac Toe Game (React.js)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A simple yet interactive **Tic Tac Toe game** built using **React.js**.  
+Play against another player and enjoy the classic game with a clean, responsive UI.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Google-Gemini-2.0-using-ReactJS" 
+## 🚀 Features
+- ✅ **Two Player Mode** – Play with a friend on the same device.  
+- ✅ **Dynamic Board** – Updates instantly on every move.  
+- ✅ **Win Detection** – Highlights the winner when a player wins.  
+- ✅ **Draw Detection** – Alerts when the match ends in a draw.  
+- ✅ **Reset Option** – Start a new game anytime.  
+- ✅ **Responsive UI** – Works across desktop and mobile screens.  
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ **React.js** – Component-based frontend library.  
+- 🎨 **CSS** – For styling and responsiveness.  
+- 🔄 **React Hooks (useState)** – For game state management.  
+
+---
+
+
+
+ 
